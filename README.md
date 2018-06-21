@@ -15,4 +15,5 @@ npm run build (打包到生产环境)
 <img src="./screenshots/screenshot2.png"/>
 
 ## 效果预览
-<img src="./screenshots/qrcode.png" width="250" height="250"/>
+<img src="./screenshots/qrcode.png" width="250" height="250"/></br>
+由于服务器在国外，有时不太稳定，页面加载不出来的时候耐心等等或者多刷新几次试试
