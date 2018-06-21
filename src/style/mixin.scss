@@ -1,0 +1,29 @@
+$bg: #f5f5f5;
+$white: #ffffff;
+$green: #55cbc4;
+$textMain: #61687c;
+$textBlack: #333333;
+$textGrey: #9fa3b0;
+$textLink: #4183c4;
+
+$REM: 100;
+
+/* px转换为rem */
+@function REM($n) {
+    @return $n/$REM*1rem;
+}
+
+%line{
+    display: block;
+    content: "";
+    width: 100%;
+    height: 1px;
+    transform: scaleY(50%);
+    background: rgba(0,0,0,0.1);
+}
+
+%autoImg{
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+}
