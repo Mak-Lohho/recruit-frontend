@@ -6,8 +6,8 @@
 npm install
 npm run dev
 
-npm run test (打包到测试环境)
-npm run build (打包到生产环境)
+npm run test  //打包到测试环境
+npm run build  //打包到生产环境
 ```
 
 ## 部分截图
