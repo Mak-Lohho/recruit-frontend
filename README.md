@@ -11,8 +11,8 @@ npm run build (打包到生产环境)
 ```
 
 ## 部分截图
-<img src="https://note.youdao.com/yws/res/1834/WEBRESOURCE040b9cef7b313b0182651f0ae488253f"/></br></br></br>
-<img src="https://note.youdao.com/yws/res/1836/WEBRESOURCEfcf09146fcf4c346f4b1cb043b3ab432"/>
+<img src="./screenshots/screenshot1.png"/></br></br></br>
+<img src="./screenshots/screenshot2.png"/>
 
 ## 效果预览
-<img src="//https://note.youdao.com/yws/res/1832/WEBRESOURCE52ae21209042809799c997d4bdee6ec1" width="250" height="250"/>
+<img src="./screenshots/qrcode.png" width="250" height="250"/>
