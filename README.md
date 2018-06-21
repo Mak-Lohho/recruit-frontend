@@ -1,5 +1,5 @@
 # About
-此项目是vue2.0 + minu-ui + echarts的数据图表展示项目，关于这个项目的详细说明可以移步到我的博客文章【Vue+Flask】前端到后端通关之路（1）
+此项目是vue2.0 + minu-ui + echarts的数据图表展示项目，关于这个项目的详细说明可以移步到我的博客文章[【Vue+Flask】前端到后端通关之路（1）](http://maklok.com/blog/2018/06/21/article10001/)
 
 ## 项目运行
 ```
